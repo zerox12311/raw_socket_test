@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('robovm-rt-1.0.0-beta-03.jar'))
